@@ -5,7 +5,7 @@ author = "Justin Napolitano"
 tags = ["life"]
 images = ["images/feature-image.png"]
 categories = ["adventures"]
-date = "2024-07-11"
+date = "2024-07-19"
 +++
 
 
