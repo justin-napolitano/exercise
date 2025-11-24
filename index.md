@@ -19,6 +19,13 @@ seoSecondaryKeywords:
   - personal exercise plan
   - markdown exercise log
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post is focused on personal exercise routines and health habits documented in Markdown,
+  aligning closely with the 'Personal' family's focus on journals, health, habits, and lifestyle. It
+  is not about automation, devtools, datascience, or climbing specifically, nor a purely static site
+  or latex project.
 ---
 
 # Exercise Project Overview
@@ -54,3 +61,4 @@ The content is reflective and practical, focusing on realistic goals rather than
 ## Conclusion
 
 This repository exemplifies a minimalistic approach to personal project documentation, focusing on clarity and practicality. It is a useful reference for developers or engineers considering how to document non-code projects or personal goals in a structured manner.
+
