@@ -1,12 +1,25 @@
 ---
-slug: "github-exercise"
-title: "exercise"
-repo: "justin-napolitano/exercise"
-githubUrl: "https://github.com/justin-napolitano/exercise"
-generatedAt: "2025-11-23T08:55:10.185546Z"
-source: "github-auto"
+slug: github-exercise
+title: Personal Exercise Routine Documentation Using Markdown
+repo: justin-napolitano/exercise
+githubUrl: https://github.com/justin-napolitano/exercise
+generatedAt: '2025-11-23T08:55:10.185546Z'
+source: github-auto
+summary: >-
+  Detailed overview of a personal exercise plan documented in Markdown, covering cardio,
+  calisthenics, and balance goals adapted to environmental changes.
+tags:
+  - exercise
+  - personal-project
+  - markdown
+  - fitness-tracking
+  - documentation
+seoPrimaryKeyword: exercise routine documentation
+seoSecondaryKeywords:
+  - personal exercise plan
+  - markdown exercise log
+seoOptimized: true
 ---
-
 
 # Exercise Project Overview
 
