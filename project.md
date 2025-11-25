@@ -1,19 +1,28 @@
 ---
 slug: github-exercise
 id: github-exercise
-title: Exercise
+title: Personal Exercise Goals and Routines Documentation
 repo: justin-napolitano/exercise
 githubUrl: https://github.com/justin-napolitano/exercise
 generatedAt: '2025-11-24T21:34:43.342Z'
 source: github-auto
 summary: >-
-  This repository documents personal exercise goals and routines focused on
-  cardio, calisthenics, and balance. It serves as a personal log and plan for
-  maintaining physical activity after relocating to a less walkable environment.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A Markdown-based repository outlining personal exercise goals, routines, and
+  future enhancements for fitness tracking.
+tags:
+  - markdown
+  - exercise tracking
+  - personal log
+  - fitness documentation
+  - static content
+seoPrimaryKeyword: personal exercise documentation
+seoSecondaryKeywords:
+  - fitness goals log
+  - exercise routines markdown
+  - cardio and calisthenics
+  - future work fitness
+  - progress tracking
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
