@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/exercise
 generatedAt: '2025-11-24T21:34:43.342Z'
 source: github-auto
 summary: >-
-  Explore a personal log for exercise goals focusing on cardio, calisthenics,
-  and balance, with a roadmap for future enhancements.
+  Explore a personal log for exercise goals focusing on cardio, calisthenics, and balance, with a
+  roadmap for future enhancements.
 tags:
   - markdown
   - exercise tracking
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - calisthenics plan
   - cardio exercises
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -78,3 +78,4 @@ exercise/
 ---
 
 This repository is currently a personal documentation project without executable code or automation.
+
