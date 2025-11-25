@@ -1,31 +1,41 @@
 ---
 slug: github-exercise
-title: Personal Exercise Routine Documentation Using Markdown
+title: Structured Approach to Personal Exercise Documentation
 repo: justin-napolitano/exercise
 githubUrl: https://github.com/justin-napolitano/exercise
 generatedAt: '2025-11-23T08:55:10.185546Z'
 source: github-auto
 summary: >-
-  Detailed overview of a personal exercise plan documented in Markdown, covering cardio,
-  calisthenics, and balance goals adapted to environmental changes.
+  This project outlines a personal strategy for maintaining fitness in a less
+  conducive environment, detailing exercise goals and routines.
 tags:
   - exercise
   - personal-project
   - markdown
   - fitness-tracking
   - documentation
-seoPrimaryKeyword: exercise routine documentation
+  - exercise planning
+  - personal documentation
+  - fitness goals
+  - static site generator
+seoPrimaryKeyword: exercise project documentation
 seoSecondaryKeywords:
-  - personal exercise plan
+  - personal fitness strategy
   - markdown exercise log
+  - daily exercise goals
+  - calisthenics routines
+  - environmental fitness challenges
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post is focused on personal exercise routines and health habits documented in Markdown,
-  aligning closely with the 'Personal' family's focus on journals, health, habits, and lifestyle. It
-  is not about automation, devtools, datascience, or climbing specifically, nor a purely static site
-  or latex project.
+  The post is focused on personal exercise routines and health habits documented
+  in Markdown, aligning closely with the 'Personal' family's focus on journals,
+  health, habits, and lifestyle. It is not about automation, devtools,
+  datascience, or climbing specifically, nor a purely static site or latex
+  project.
+kind: project
+id: github-exercise
 ---
 
 # Exercise Project Overview
